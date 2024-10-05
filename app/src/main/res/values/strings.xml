@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">List-Animal</string>
+
+    <string name="about_name">Muhammad Zulkifli</string>
+    <string name="about_email">callypthic@gmail.com</string>
+
+    <string name="animals_name">Nama Hewan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+        <item>Ayam</item>
+        <item>Belalang</item>
+        <item>Beruang</item>
+        <item>Buaya</item>
+        <item>Burung</item>
+        <item>Domba</item>
+        <item>Hamster</item>
+        <item>Harimau</item>
+        <item>Ikan</item>
+        <item>Kelinci</item>
+        <item>Kucing</item>
+        <item>Lumba-Lumba</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Ayam, hewan berbulu dengan sayap kecil, paruh runcing, dan kaki bersisik. Memiliki warna bulu yang beragam, dari putih bersih hingga coklat cerah. Ayam dikenal sebagai hewan sosial yang hidup dalam kelompok. Mereka memiliki kemampuan berkukur untuk mencari makanan. Suara kokokannya yang khas sering terdengar di pagi hari. Ayam juga dianggap sebagai simbol keberuntungan dan kesuburan dalam berbagai budaya.</item>
+        <item>Belalang, serangga kecil dengan tubuh ramping, kepala kecil, dan antena panjang. Tubuhnya umumnya berwarna hijau atau coklat, sesuai dengan lingkungan sekitarnya. Belalang memiliki kaki panjang yang memungkinkannya melompat jauh. Mereka sering ditemukan di daerah berumput dan ladang. Dengan mata besar, belalang dapat melihat dengan tajam untuk menghindari predator dan mencari makanan. Suara desisnya yang khas terkadang menjadi latar belakang alam pedesaan yang tenang.</item>
+        <item>Beruang, mamalia besar dengan tubuh berbulu tebal dan cakar kuat. Beruang dapat memiliki berbagai warna bulu, mulai dari hitam, coklat, hingga putih tergantung pada spesiesnya. Mereka memiliki hidung yang tumpul dan telinga yang bulat. Beruang dikenal sebagai hewan pemakan segala, termasuk ikan, buah-buahan, dan tumbuhan. Meskipun cenderung soliter, beruang memiliki ikatan kuat dengan anak-anaknya. Habitatnya meliputi hutan, tundra, dan pegunungan. Beruang juga dikenal sebagai simbol kekuatan dan keberanian dalam budaya banyak suku bangsa.</item>
+        <item>Buaya, reptil besar berkepala lebar dengan tubuh bersisik dan ekor panjang. Ciri khasnya adalah mulutnya yang lebar dengan gigi tajam. Buaya hidup di perairan tawar seperti sungai, danau, atau rawa-rawa. Mereka dapat berenang dengan cepat dan melibas mangsanya menggunakan ekor kuatnya. Buaya dikenal sebagai predator yang efisien dan terkadang dapat mencapai ukuran yang besar. Meskipun bersifat agresif, buaya memiliki peran penting dalam menjaga keseimbangan ekosistem air tawar. Penampilannya yang perkasa sering membuatnya disematkan dalam mitos dan legenda.</item>
+        <item>Burung, hewan berbulu dengan sayap untuk terbang, paruh untuk makan, dan kaki untuk bergerak. Keberagaman burung melibatkan warna, bentuk, dan ukuran yang bervariasi. Ada burung yang cantik dengan bulu warna-warni dan suara merdu. Mereka menggunakan sayap untuk terbang mencari makanan, dan paruhnya yang beragam berfungsi sesuai spesiesnya. Beberapa burung merupakan pemangsa, sementara yang lain memakan biji-bijian atau nektar. Migrasi adalah ciri khas beberapa spesies burung untuk menghindari perubahan musim. Burung juga sering menjadi simbol kebebasan dan keindahan alam.</item>
+        <item>Domba, hewan mamalia berbulu dengan tubuh kecil dan kaki pendek. Biasanya memiliki bulu yang lembut dan tebal. Domba sering diidentifikasi dengan tanduk melingkar pada kepala, meskipun ada juga yang tanpa tanduk. Hewan ini umumnya ditemukan di padang rumput dan dijadikan ternak oleh manusia untuk daging, susu, dan wol. Domba biasanya hidup dalam kawanan dan memiliki sifat yang tenang. Mereka merupakan hewan herbivora, memakan rumput dan tanaman. Domba juga sering menjadi simbol kesederhanaan dan kelembutan dalam berbagai budaya.</item>
+        <item>Hamster, hewan kecil bertubuh bulat dengan telinga pendek dan ekor yang hampir tidak terlihat. Biasanya berbulu lembut dan datar dengan berbagai warna. Hamster terkenal sebagai hewan peliharaan yang ramah dan lucu. Mereka memiliki pipi yang dapat menyimpan makanan, memungkinkan mereka menyimpan cadangan di dalam mulut. Aktif pada malam hari, hamster merupakan hewan nokturnal yang suka membuat sarang di tempat yang gelap dan terlindung. Hamster juga dikenal dengan sifat penyendiri dan dapat hidup sendiri atau dalam kelompok kecil, tergantung pada jenisnya.</item>
+        <item>Harimau, karnivora besar dengan tubuh berotot, kulit berloreng, dan garis-garis hitam khas di bulu. Harimau dikenal sebagai predator hebat di ekosistem hutan dan savana. Mereka memiliki gigi taring yang panjang dan kuat untuk mencabik mangsanya. Habitat harimau melibatkan berbagai lingkungan seperti hutan, hujan, dan gurun. Meskipun sering hidup soliter, harimau bisa bersosialisasi saat mencari pasangan atau dalam periode reproduksi. Harimau adalah simbol kekuatan dan keindahan, tetapi juga menghadapi ancaman ekstinsi karena perburuan ilegal dan hilangnya habitat alaminya.</item>
+        <item>Ikan, hewan berahang bertubuh bersisik, biasanya hidup di dalam air. Dengan berbagai ukuran, warna, dan bentuk, ikan mencakup beragam spesies. Mereka bernapas menggunakan insang dan berenang dengan sirip. Fungsi sirip bervariasi, termasuk untuk stabilisasi, pergerakan, dan pengendalian. Ikan dapat ditemukan di berbagai habitat air, mulai dari sungai hingga lautan. Beberapa ikan dijadikan sumber pangan manusia, sedangkan yang lain dipelihara sebagai ikan hias. Ikan juga memegang peran ekologis yang penting dalam menjaga keseimbangan ekosistem akuatik.</item>
+        <item>Kelinci, mamalia kecil dengan tubuh bulat, telinga panjang, dan gigi tajam. Bulu kelinci bisa bervariasi warnanya, termasuk putih, coklat, atau abu-abu. Mereka terkenal dengan reproduksi cepat dan memiliki banyak anak dalam satu kandungan. Kelinci adalah hewan herbivora yang makan rumput, sayuran, dan berbagai tanaman. Biasanya, mereka hidup di lubang atau gubuk yang mereka gali di tanah. Kelinci juga sering dijadikan hewan peliharaan karena sifatnya yang ramah dan mudah beradaptasi dengan lingkungan manusia.</item>
+        <item>Kucing, mamalia kecil berbulu dengan ciri khas telinga tegak dan cakar tajam. Mereka memiliki berbagai warna bulu, mata tajam, dan kumis peka sentuhan. Kucing dikenal sebagai hewan yang independen, sering menjilat diri untuk membersihkan bulu dan tidur sebagian besar hari. Meskipun sering kali hidup di dalam rumah sebagai hewan peliharaan, beberapa kucing juga hidup di lingkungan luar. Mereka adalah pemburu yang tangguh, memburu burung atau hewan kecil. Kucing juga sering dianggap sebagai teman yang setia dan menyenangkan bagi pemiliknya.</item>
+        <item>Lumba-lumba, mamalia laut cerdas dengan tubuh berbentuk torpedo, sirip yang berkembang baik, dan kulit yang halus. Dikenal dengan perilaku sosialnya, lumba-lumba sering terlihat berenang dalam kelompok yang disebut sekolah. Mereka memiliki otak yang besar dan kompleks, serta kemampuan berkomunikasi yang rumit melalui suara dan gerakan tubuh. Lumba-lumba sering melakukan atraksi seperti melompat di atas air. Mereka makan ikan dan cephalopoda, dan dapat ditemukan di perairan hangat dan tropis di seluruh dunia. Lumba-lumba juga menjadi daya tarik bagi para pengamat satwa liar dan penggemar laut.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/ayam</item>
+        <item>@drawable/belalang</item>
+        <item>@drawable/beruang</item>
+        <item>@drawable/buaya</item>
+        <item>@drawable/burung</item>
+        <item>@drawable/domba</item>
+        <item>@drawable/hamster</item>
+        <item>@drawable/harimau</item>
+        <item>@drawable/ikan</item>
+        <item>@drawable/kelinci</item>
+        <item>@drawable/kucing</item>
+        <item>@drawable/lumba_lumba</item>
+    </integer-array>
+</resources>
